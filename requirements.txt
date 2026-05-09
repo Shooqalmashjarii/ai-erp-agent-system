@@ -1,0 +1,17 @@
+langchain
+pydantic
+langchain_google_genai
+langchain_community
+fastapi
+langchain-chroma
+pandas
+streamlit 
+scikit-learn
+langgraph
+pypdf
+langchain_openai
+langchain-google-genai
+python-dotenv
+langchain==0.1.0
+langchain-google-genai==0.0.2
+python-dotenv==1.0.0
