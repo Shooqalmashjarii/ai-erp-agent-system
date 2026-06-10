@@ -2,7 +2,7 @@
 
 An intelligent, agent-driven ERP assistant built with **LangChain**, **Gemini 2.5 Flash**, and **SQLite** — enabling natural language queries across sales, inventory, and analytics data through a modular multi-agent architecture.
 
-> **Graduation Project — Khalifa University**
+> **Graduation Project — Nomu AlGuhrair Bootcamp**
 
 ---
 
